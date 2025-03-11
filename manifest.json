@@ -22,9 +22,12 @@
       "matches": [
         "<all_urls>"
       ],
+      "all_frames": true,
+      "run_at": "document_start",
       "js": [
         "selectall.js"
       ]
     }
-  ]
+  ],
+  "permissions": ["<all_urls>"]
 }
