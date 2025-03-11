@@ -11,10 +11,6 @@
   },
   "description": "An addon to re-enable the ability to select every text",
   "homepage_url": "https://github.com/MagicTINTIN/selectall",
-  "browser_action": {
-    "default_icon": "assets/icon.png",
-    "default_title": "Selectall"
-  },
   "browser_specific_settings": {
     "gecko": {
       "id": "selectall@magictintin.fr",
