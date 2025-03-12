@@ -29,5 +29,6 @@
       ]
     }
   ],
-  "permissions": ["<all_urls>"]
+  "action": {},
+  "permissions": ["<all_urls>","scripting", "activeTab"]
 }
